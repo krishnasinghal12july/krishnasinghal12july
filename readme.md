@@ -1,143 +1,134 @@
-# 🌐 Personal Portfolio
+# 👋 Hi, I'm Krishna Singhal
 
-A modern and responsive personal portfolio website showcasing my skills, projects, achievements, and journey as a Full Stack Developer.
+🚀 **Aspiring Full Stack MERN Developer** | 💻 **DSA Enthusiast** | 🌱 **Future AI Engineer**
 
-## 🚀 Live Demo
-
-👉 https://your-portfolio-link.vercel.app
-
-## 📌 Features
-
-- Responsive Design
-- Modern UI/UX
-- Dark/Light Mode
-- About Me Section
-- Skills Section
-- Projects Showcase
-- Contact Form
-- Resume Download
-- Smooth Animations
+I'm a Computer Science undergraduate at **ABES Engineering College (AKTU)** with a strong passion for building scalable web applications and solving algorithmic problems. Currently, I'm focused on mastering the **MERN Stack**, improving my **Data Structures & Algorithms** skills, and preparing for software engineering internships and placements.
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Connect With Me
 
-### Frontend
-- React.js
-- Vite
-- Tailwind CSS
-- JavaScript
-- HTML5
-- CSS3
-
-### Libraries
-- React Router DOM
-- React Icons
-- Framer Motion
-- EmailJS (Contact Form)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/krishna-singhal-7183ba386
+* 💻 **GitHub:** https://github.com/krishna-singhal2006 *(replace if different)*
+* 🧩 **LeetCode:** https://leetcode.com/u/krishna_singhal2006/
+* 📧 **Email:** [krishnasinghal@gmail.com](mailto:krishnasinghal@gmail.com)
 
 ---
 
-## 📂 Folder Structure
+## 🚀 About Me
 
+* 🎓 B.Tech Computer Science & Engineering Student
+* 💻 Full Stack MERN Developer
+* 🔥 Passionate about Backend Development
+* 📚 Daily DSA Learner
+* 🌱 Learning AI/ML alongside Web Development
+* 🎯 Goal: Become an AI Engineer while building strong Software Development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* C++
+* JavaScript
+
+### 🎨 Frontend
+
+* HTML5
+* CSS3
+* React.js
+* Tailwind CSS
+* Vite
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* bcrypt
+
+### 🗄️ Database
+
+* MongoDB
+* Mongoose
+* MongoDB Atlas
+
+### 🧰 Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Thunder Client
+
+---
+
+## 📂 Current Project
+
+### 🏠 Airbnb Clone (MERN Stack)
+
+Building a complete Airbnb Clone using the MERN Stack.
+
+### Features
+
+* 🔐 JWT Authentication
+* 👤 User Login & Registration
+* 🏡 Property Listing
+* ❤️ Wishlist (Upcoming)
+* 📅 Booking System (Upcoming)
+* 📷 Image Upload
+* ☁️ MongoDB Atlas Integration
+* 📱 Responsive UI
+
+---
+
+## 📊 Coding Profiles
+
+### LeetCode
+
+* ✅ 100+ Problems Solved
+* 📈 Consistently practicing Data Structures & Algorithms
+* 🔗 https://leetcode.com/u/krishna_singhal2006/
+
+---
+
+## 📚 Currently Learning
+
+* Advanced MERN Stack
+* Authentication & Authorization
+* Multer & File Uploads
+* AI/ML Fundamentals
+* System Design Basics
+* Data Structures & Algorithms
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Solve 250+ DSA Problems
+* 🚀 Build 5+ Full Stack Projects
+* 💼 Secure a Software Development Internship
+* 🤖 Complete AI/ML Fundamentals
+* 🌟 Contribute to Open Source
+
+---
+
+## 📈 GitHub Stats
+
+> *(Add these after creating your GitHub profile README)*
+
+```md
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna-singhal2006&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-singhal2006&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=krishna-singhal2006)
 ```
-Portfolio/
-│
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── package.json
-└── README.md
-```
 
 ---
 
-## ⚙️ Installation
+## 💡 Quote
 
-Clone the repository
-
-```bash
-git clone https://github.com/krishnasinghal12july/Portfolio.git
-```
-
-Move into the project
-
-```bash
-cd Portfolio
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start the development server
-
-```bash
-npm run dev
-```
-
-Build for production
-
-```bash
-npm run build
-```
-
----
-
-## 📖 Sections
-
-- Home
-- About
-- Skills
-- Projects
-- Resume
-- Contact
-
----
-
-## 📚 Projects Included
-
-- Airbnb Clone (MERN Stack)
-- More projects coming soon...
-
----
-
-## 🎯 Future Improvements
-
-- Blog Section
-- Admin Dashboard
-- Multi-language Support
-- Project Filtering
-- Improved Animations
-
----
-
-## 👨‍💻 About Me
-
-I'm **Krishna Singhal**, a Computer Science Engineering student at **ABES Engineering College**.
-
-I'm passionate about **Full Stack Development**, **Backend Engineering**, and **Data Structures & Algorithms**.
-
-Currently working on a **Full Stack Airbnb Clone** while consistently improving my MERN stack skills.
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: krishnasinghal@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/krishna-singhal-7183ba386/
-- 💻 GitHub: https://github.com/krishnasinghal12july
-- 🧩 LeetCode: https://leetcode.com/u/krishna_singhal2006/
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
+> "Consistency beats intensity. Every line of code written today builds tomorrow's expertise."
